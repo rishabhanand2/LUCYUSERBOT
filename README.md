@@ -1,5 +1,5 @@
 <h3 align="center">𝚃𝙷𝙴 𝙲𝙻𝙾𝙽𝙴 𝙾𝙵</h3>
-<h2 align="center"> <a href="https://github.com/mrnitric/SankiAutobot">🔥 •|| 𝐓𝐇𝐄 𝐒𝐀𝐍𝐊𝐈 𝐀𝐔𝐓𝐎𝐁𝐎𝐓 ||• 🔥</a></h2>
+<h2 align="center"> <a href="https://github.com/mrnitric/SankiAutobot">🔥 •|| HELLBOT ||• 🔥</a></h2>
 
 
 <h1 align="center">⚡ 𝐒𝐀𝐍𝐊𝐈 𝐀𝐔𝐓𝐎𝐁𝐎𝐓 ⚡</h1>
@@ -110,7 +110,7 @@ notifications in Update Channel.
 
 Copyright (C) 2021 @MR_NITRIC™
 
-Poject [𝙼𝙰𝙵𝙸𝙰𝙱𝙾𝚃](https://github.com/H1M4N5HU0P/MAFIA-BOT) is free software: you can redistribute it and/or modify
+Poject [Sanki Autobot](https://github.com/H1M4N5HU0P/MAFIA-BOT) is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.
