@@ -14,7 +14,7 @@ from telethon.tl.types import ChannelParticipantsAdmins
 from userbot.cmdhelp import CmdHelp
 
 # 🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔
-DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "Sʌŋĸɩ Wʌʀʀɩoʀ"
+DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "LUCYUSERBOT"
 
 # Thanks to Sipak bro and Raganork.. 
 # animation Idea by @NOOB_GUY_OP (Sipakisking)
@@ -33,12 +33,12 @@ mafia = bot.uid
 
 edit_time = 16
 """ =======================CONSTANTS====================== """
-file1 = "https://telegra.ph/file/a1720a18da7abfb6d4b66.jpg"
-file2 = "https://telegra.ph/file/a1720a18da7abfb6d4b66.jpg"
-file3 = "https://telegra.ph/file/a1720a18da7abfb6d4b66.jpg"
-file4 = "https://telegra.ph/file/a1720a18da7abfb6d4b66.jpg"
+file1 = "https://telegra.ph/file/1aa05b6f356b259e7a0d6.jpg"
+file2 = "https://telegra.ph/file/1aa05b6f356b259e7a0d6.jpg"
+file3 = "https://telegra.ph/file/1aa05b6f356b259e7a0d6.jpg"
+file4 = "https://telegra.ph/file/1aa05b6f356b259e7a0d6.jpg"
 """ =======================CONSTANTS====================== """
-pm_caption = "  __**🔥🔥𝐒𝐀𝐍𝐊𝐈 𝐀𝐔𝐓𝐎𝐁𝐎𝐓 𝐈𝐒 𝐀𝐋𝐈𝐕𝐄🔥🔥**__\n\n"
+pm_caption = "  __**🔥🔥𝗟𝗨𝗖𝗬𝗨𝗦𝗘𝗥𝗕𝗢𝗧 𝗜𝗦 𝗔𝗟𝗜𝗩𝗘🔥🔥**__\n\n"
 
 pm_caption += f"**━━━━━━━━━━━━━━━━━━━━**\n\n"
 pm_caption += (
@@ -48,10 +48,10 @@ pm_caption += f"┏━━━━━━━━━━━━━━━━━━━\n"
 pm_caption += f"┣•➳➠ `Tɘɭɘtʜoŋ :` `{version.__version__}` \n"
 pm_caption += f"┣•➳➠ `Vɘʀsɩoŋ ` `{mafiaversion}`\n"
 pm_caption += f"┣•➳➠ `Sʋɗo :` `{sudou}`\n"
-pm_caption += f"┣•➳➠ `Cʜʌŋŋɘɭ :` [ᴊᴏɪɴ](https://t.me/SankiAutobot)\n"
-pm_caption += f"┣•➳➠ `Cʀɘʌtoʀ :` [Mr Nitric](https://t.me/Mr_Nitric)\n"
+pm_caption += f"┣•➳➠ `Cʜʌŋŋɘɭ :` [ᴊᴏɪɴ](https://t.me/LUCYUSER)\n"
+pm_caption += f"┣•➳➠ `Cʀɘʌtoʀ :` [Mr Nitric](https://t.me/Mafiarishabh)\n"
 pm_caption += f"┗━━━━━━━━━━━━━━━━━━━\n"
-pm_caption += " [🔥Rɘpo🔥](https://github.com/mrnitric/SankiAutobot) 🔹 [📜License📜](https://github.com/mrnitric/SankiAutobot/blob/main/LICENSE)"
+pm_caption += " [🔥Rɘpo🔥](https://github.com/rishabhanand2/LUCYUSERBOT) 🔹 [📜License📜](https://github.com/mrnitric/SankiAutobot/blob/main/LICENSE)"
 
 # @command(outgoing=True, pattern="^.alive$")
 @bot.on(admin_cmd(outgoing=True, pattern="alive$"))
